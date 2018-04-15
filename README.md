@@ -12,3 +12,7 @@ ZCZC W03 Tutorial3
 ZCZC W04 Tutorial4
 
 ZCZC W05 Tutorial5
+
+ZCZC W06 Tutorial6
+
+ZCZC W07 Tutorial7
