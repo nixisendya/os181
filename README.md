@@ -16,3 +16,5 @@ ZCZC W05 Tutorial5
 ZCZC W06 Tutorial6
 
 ZCZC W07 Tutorial7
+
+ZCZC W08 Tutorial8
